@@ -1,4 +1,7 @@
-<img alt="Coding" width="100%" src="banner.gif">
+<div align="center">
+  
+<img alt="Coding" width="70%"  src="banner.gif">
+</div>
 <h1 align="center">Hi 👋, I'm Sebastián Capelli</h1>
 <h3 align="center">A Computer Engineering student at the University of Buenos Aires. With only a couple of courses remaining, I'm planning to graduate in 2024. Alongside my studies, I've been working in technical support at a help desk for the last five years.</h3>
 <img align="right" alt="Coding" width="400" src="coding.gif">
