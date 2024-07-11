@@ -15,7 +15,7 @@
 
 - 💼 Check out my portfolio at <a href="https://www.scapelli.ar/" target="blank">**scapelli.ar**</a>
 
-- 📑 Check out my <a href="https://www.scapelli.ar/cv-en.CAPELLI" target="blank">**CV**</a>
+- 📑 Check out my <a href="https://www.scapelli.ar/cv-en-CAPELLI.pdf" target="blank">**CV**</a>
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
