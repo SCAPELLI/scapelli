@@ -6,13 +6,16 @@
 <h3 align="center">A software developer nearing graduation in 2024 as a Computer Engineer.</h3>
 <img align="right" alt="Coding" width="400" src="coding.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=scapelli&label=Profile%20views&color=0e75b6&style=flat" alt="scapelli" /> </p>
+
 - 🔭 I’m currently working at Zoo Logic S.A. as a **.NET Developer**
   
 - 🌱 I’m currently learning **NoSQL Databases**
 
 - 📫 Reach me at **scapelli@fi.uba.ar**
 
-- 💼 Check my portfolio at <a href="https://www.scapelli.ar/" target="blank">**scapelli.ar**</a>
+- 💼 Check out my portfolio at <a href="https://www.scapelli.ar/" target="blank">**scapelli.ar**</a>
+
+- 📑 Check out my <a href="https://www.scapelli.ar/cv-en.CAPELLI" target="blank">**CV**</a>
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
