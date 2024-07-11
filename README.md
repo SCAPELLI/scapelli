@@ -3,9 +3,11 @@
 <img alt="Coding" width="100%"  src="banner2.gif">
 </div>
 <h1 align="center">Hi 👋, I'm Sebastián</h1>
-<h3 align="center">A software developer soon to graduate as a Computer Engineer Alongside my studies, I've been working in technical support at a help desk for the last five years.</h3>
+<h3 align="center">A software developer nearing graduation in 2024 as a Computer Engineer.</h3>
 <img align="right" alt="Coding" width="400" src="coding.gif">
 
+- 🔭 I’m currently working at Zoo Logic S.A. as a **.NET Developer**
+  
 - 🌱 I’m currently learning **NoSQL Databases**
 
 - 📫 Reach me at **scapelli@fi.uba.ar**
