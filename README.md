@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner3.png" alt="Sebastián Capelli Banner" width="100%">
+  <img src="banner4.png" alt="Sebastián Capelli Banner" width="100%">
 </p>
 
 <h1 align="center">Hi, I'm Sebastián.</h1>
