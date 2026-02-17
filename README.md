@@ -1,11 +1,14 @@
+<p align="center">
+  <img src="banner3.png" alt="Sebastián Capelli Banner" width="100%">
+</p>
 
-<h1 align="center">Hi, I'm Sebastián 👋</h1>
+<h1 align="center">Hi, I'm Sebastián.</h1>
 
 <p align="center">
 Backend-focused Software Engineer building scalable systems and leading technical teams.
 </p>
 
----
+<br/>
 
 ## 🧠 What I Do
 
@@ -13,7 +16,6 @@ Backend-focused Software Engineer building scalable systems and leading technica
 - Define system architecture and data models  
 - Develop scalable backend services  
 - Lead technical teams and deliver production-ready software  
-
 
 ---
 
@@ -25,7 +27,7 @@ Python · Flask · SQLAlchemy · MySQL · AWS · Docker · React · Next.js · T
 
 ## 📬 Contact
 
-- 🌐 Portfolio: https://www.scapelli.com
-- 📄 CV: https://www.scapelli.com/cv-en-CAPELLI.pdf
-- 💼 LinkedIn: https://www.linkedin.com/in/scapelli
+- 🌐 Portfolio: https://www.scapelli.com  
+- 📄 CV: https://www.scapelli.com/cv-en-CAPELLI.pdf  
+- 💼 LinkedIn: https://www.linkedin.com/in/scapelli  
 - ✉️ scapelli@fi.uba.ar
